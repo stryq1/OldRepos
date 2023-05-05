@@ -1,0 +1,14 @@
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\DecrypterPOC.exe
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\DecrypterPOC.deps.json
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\DecrypterPOC.runtimeconfig.json
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\DecrypterPOC.runtimeconfig.dev.json
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\DecrypterPOC.dll
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\bin\Release\netcoreapp3.1\DecrypterPOC.pdb
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.csproj.AssemblyReference.cache
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.AssemblyInfoInputs.cache
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.AssemblyInfo.cs
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.csproj.CoreCompileInputs.cache
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.dll
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.pdb
+D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\obj\Release\netcoreapp3.1\DecrypterPOC.genruntimeconfig.cache

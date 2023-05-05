@@ -1,0 +1,1 @@
+{"Smoothness":"1","ESP":true,"Aim Part":"Head","Visuals Color":"Rainbow","Tracers":true,"Aimbot":true}

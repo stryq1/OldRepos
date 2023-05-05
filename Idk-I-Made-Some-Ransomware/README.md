@@ -1,0 +1,4 @@
+# Idk-I-Made-Some-Ransomware
+
+*I AM NOT RESPONSIBLE FOR AMY DAMAGE*
+*USE AT YOUR OWN RISK*

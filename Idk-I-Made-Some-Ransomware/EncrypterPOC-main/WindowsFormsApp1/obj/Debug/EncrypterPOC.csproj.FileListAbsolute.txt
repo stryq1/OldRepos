@@ -1,0 +1,11 @@
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.AssemblyReference.cache
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.SuggestedBindingRedirects.cache
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\RansomwarePOC.Form1.resources
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.GenerateResource.cache
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\EncrypterPOC.csproj.CoreCompileInputs.cache
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SomeRansomware\EncrypterPOC-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

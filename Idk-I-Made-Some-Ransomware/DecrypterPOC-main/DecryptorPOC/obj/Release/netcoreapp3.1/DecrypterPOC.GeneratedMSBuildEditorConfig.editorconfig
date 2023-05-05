@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DecrypterPOC
+build_property.ProjectDir = D:\SomeRansomware\DecrypterPOC-main\DecryptorPOC\
